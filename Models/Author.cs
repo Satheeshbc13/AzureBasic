@@ -13,4 +13,6 @@ public partial class Author
 	 public string Edition { get; set; } = null!;
 	  public string Edition { get; set; } = null!;
 	   public string Edition { get; set; } = null!;
+	   
+	   public string test { get; set; } = null!;
 }
