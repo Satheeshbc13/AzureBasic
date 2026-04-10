@@ -10,4 +10,7 @@ public partial class Author
     public string Name { get; set; } = null!;
 
     public string Edition { get; set; } = null!;
+	 public string Edition { get; set; } = null!;
+	  public string Edition { get; set; } = null!;
+	   public string Edition { get; set; } = null!;
 }
